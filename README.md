@@ -5,6 +5,10 @@
 
 ---
 
+
+https://github.com/user-attachments/assets/2633a767-d884-47eb-a2c3-e4768de99488
+
+
 ## 🎯 Objectifs du Projet
 
 Ce projet a pour but de concevoir une interface Android moderne et ergonomique en utilisant un **Navigation Drawer** (menu latéral). L'accent est mis sur la **navigation modulaire**, permettant une gestion fluide de plusieurs écrans au sein d'une activité unique.
